@@ -1,1 +1,5 @@
 credentinals.zx100.*
+credentinals.json
+credentinals.gcl.registry.json
+.terraform/plugins/linux_amd64/lock.json
+.terraform/plugins/linux_amd64/terraform-provider-google_v3.5.0_x5
